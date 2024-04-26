@@ -30,8 +30,7 @@ Github个人仓库地址：https://github.com/whdwhd0/DeepDataMining
 
 ![img](https://amitness.com/posts/images/self-supervised-workflow.png)
 
-​																						图 自监督学习端到端工作流程
-
+   **图 自监督学习端到端工作流程**
 1. **自监督学习原理**：
    - **定义与动机**：理解自监督学习的核心思想，即如何通过构建自我监督任务从无标签数据中学习有用的表征。
    - **预训练与微调**：熟悉自监督学习的两个主要阶段：使用自定义任务进行预训练，以及将预训练模型应用于下游任务（如缺陷检测）时的微调过程。
