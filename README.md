@@ -10,15 +10,14 @@
 
 2. 登录个人github账号。
 
-   <img src="C:\Users\whd123\AppData\Roaming\Typora\typora-user-images\image-20240426163030411.png" alt="image-20240426163030411" style="zoom: 33%;" />
+   ![img](https://github.com/whdwhd0/DeepDataMining/blob/image/user.png)
 
 3. 建立一个仓库命名为DeepDataMining。
 
-   <img src="C:\Users\whd123\AppData\Roaming\Typora\typora-user-images\image-20240426163207983.png" alt="image-20240426163207983" style="zoom: 33%;" />
-
+   ![img](https://github.com/whdwhd0/DeepDataMining/blob/image/load.png)
 4. 上传自己的PPT到DeepDataMining中。
 
-   <img src="C:\Users\whd123\AppData\Roaming\Typora\typora-user-images\image-20240426163257849.png" alt="image-20240426163257849" style="zoom:33%;" />
+   ![img](https://github.com/whdwhd0/DeepDataMining/blob/image/last.png)
 
 
 
