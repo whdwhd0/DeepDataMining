@@ -6,7 +6,7 @@
 
 1. 注册个人github账号
 
-   ![img](C:\Users\whd123\AppData\Roaming\Typora\typora-user-images\image-20240426163030411.png)
+   ![img](https://github.com/whdwhd0/DeepDataMining/blob/image/Register.png)
 
 2. 登录个人github账号。
 
