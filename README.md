@@ -6,7 +6,7 @@
 
 1. 注册个人github账号
 
-   ![img](C:\Users\whd123\Pictures\Screenshots\屏幕截图 2024-04-26 162840.png)
+   ![img](C:\Users\whd123\AppData\Roaming\Typora\typora-user-images\image-20240426163030411.png)
 
 2. 登录个人github账号。
 
