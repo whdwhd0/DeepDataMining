@@ -1,6 +1,6 @@
 ## Github上传作业
 
-**Github个人仓库地址：**https://github.com/whdwhd0/DeepDataMining
+Github个人仓库地址：https://github.com/whdwhd0/DeepDataMining
 
 ### 流程
 
@@ -18,6 +18,9 @@
 4. 上传自己的PPT到DeepDataMining中。
 
    ![img](https://github.com/whdwhd0/DeepDataMining/blob/image/last.png)
+
+
+
 
 
 
